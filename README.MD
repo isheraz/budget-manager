@@ -26,6 +26,8 @@ Project Inspiration from Google Sheets
 - [Yearly Expenses](https://docs.google.com/spreadsheets/d/1r8lADCaArpGzGuXwVrNvsn70oXkajQcF9J6p2pj90uc/edit#gid=1695479590)
 - [Split Wise](https://www.splitwise.com/)
 
+# License
+Please read the following terms mentioned in the [GNU Lesser General Public License v2.1](https://github.com/isheraz/budget-manager/blob/main/LICENSE.md)
 
 # Contributors
 <!-- Copy-paste in your Readme.md file -->
